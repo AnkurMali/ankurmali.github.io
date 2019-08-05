@@ -12,6 +12,8 @@ redirect_from:
 * My research interests lie in designing neural memory models for neural state machines and also designing models on Lifelong machine learning (LML), also referred to as never-ending learning, lifelong learning, and continual learning.
   * I also enjoy working on Biologically-inspired learning algorithm ,statistical learning procedures such as multi-modal learning and Reinforcement learning.
   * Artificial neural networks:
+    * 111
+    * 558
         * Convolution neural network , Recurrent networks, neural memory models, Graph Neural Network.
         * Probabilistic models and variational autoencoders.
         
