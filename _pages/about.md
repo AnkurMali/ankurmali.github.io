@@ -15,7 +15,7 @@ redirect_from:
         Convolution neural network , Recurrent networks, neural memory models, Graph Neural Network.
         Probabilistic models and variational autoencoders.
         
-#Recent News
+# Recent News
 
 * June 25, 2019: Continual Learning of Recurrent Neural Networks by Locally Aligning Distributed Representations accepted as full article in IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2019).
 * May 17, 2019: Successfully cleared Candidacy 
