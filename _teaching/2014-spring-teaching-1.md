@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "IST 597:  Foundations of Deep Learning"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "121 Earth and Engineering Sciences,University Park, PA"
+date: Fall 2018
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Responsible for designing assignments and teaching basics of tensorflow
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
