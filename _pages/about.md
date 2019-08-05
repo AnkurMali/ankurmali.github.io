@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a second year Ph.D. student in the [Informatics](https://ist.psu.edu/) at [Pennslyvania State University](https://www.psu.edu/), advised by Dr. [lee Giles](https://clgiles.ist.psu.edu/) and Dr. [Alexander G. Ororbia II](https://www.cs.rit.edu/~ago/). [[Curriculum Vitae](http://ankurmali/files/Curriculum_Vitae.pdf)] [[Google Scholar](https://scholar.google.co.in/citations?user=ogxlzgcAAAAJ&hl=en)].
+* I am a second year Ph.D. student in the [Informatics](https://ist.psu.edu/) at [Pennsylvania state university](https://www.psu.edu/), advised by Dr. [lee Giles](https://clgiles.ist.psu.edu/) and Dr. [Alexander G. Ororbia II](https://www.cs.rit.edu/~ago/). [[Curriculum Vitae](http://ankurmali/files/Curriculum_Vitae.pdf)] [[Google Scholar](https://scholar.google.co.in/citations?user=ogxlzgcAAAAJ&hl=en)].
 * My research interests lie in designing neural memory models for neural state machines and also designing models on Lifelong machine learning (LML), also referred to as never-ending learning, lifelong learning, and continual learning.
   * I also enjoy working on Biologically-inspired learning algorithm ,statistical learning procedures such as multi-modal learning and Reinforcement learning.
   * Artificial neural networks:
