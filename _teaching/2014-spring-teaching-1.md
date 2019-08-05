@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "121 Earth and Engineering Sciences,University Park, PA"
-date: Fall 2018
+date: 2018-08-08
 location: "City, Country"
 ---
 
