@@ -17,8 +17,9 @@ redirect_from:
         
 #Recent News
 
-June 25, 2019: Continual Learning of Recurrent Neural Networks by Locally Aligning Distributed Representations accepted as full article in IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2019)
-May 14, 2019: Like a Baby: Visually Situated Neural Language Acquisition accepted for publication at the 57th Annual Meeting of the Association for Computational Linguistics conference (ACL 2019)
-March 11, 2019: A Neural Temporal Model for Human Motion Prediction accepted for publication at the Conference on Computer Vision and Pattern Recognition (CVPR 2019)
-December 27, 2018: Learned Neural Iterative Decoding for Lossy Image Compression Systems accepted as full paper for publication at the 2019 Data Compression Conference proceedings (DCC 2019)
-October 31, 2018: Biologically Motivated Algorithms for Propagating Local Target Representations, accepted for publication at the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19) 
+* June 25, 2019: Continual Learning of Recurrent Neural Networks by Locally Aligning Distributed Representations accepted as full article in IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2019).
+* May 17, 2019: Successfully cleared Candidacy 
+* May 14, 2019: Like a Baby: Visually Situated Neural Language Acquisition accepted for publication at the 57th Annual Meeting of the Association for Computational Linguistics conference (ACL 2019)
+* March 11, 2019: A Neural Temporal Model for Human Motion Prediction accepted for publication at the Conference on Computer Vision and Pattern Recognition (CVPR 2019)
+* December 27, 2018: Learned Neural Iterative Decoding for Lossy Image Compression Systems accepted as full paper for publication at the 2019 Data Compression Conference proceedings (DCC 2019)
+* October 31, 2018: Biologically Motivated Algorithms for Propagating Local Target Representations, accepted for publication at the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19) 
