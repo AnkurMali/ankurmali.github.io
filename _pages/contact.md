@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-College of IST, Pennsylvania University<br>
+College of IST, Pennsylvania State University<br>
 E345 Westgate Building,University Park, PA 16802<br>
 Email: aam35 [at] psu.edu
 
