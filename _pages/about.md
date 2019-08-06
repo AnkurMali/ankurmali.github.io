@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-* I am a second year Ph.D. student in the [Informatics](https://ist.psu.edu/) at [Pennsylvania state university](https://www.psu.edu/), advised by Dr. [lee Giles](https://clgiles.ist.psu.edu/) and Dr. [Alexander G. Ororbia II](https://www.cs.rit.edu/~ago/). [[Curriculum Vitae](http://ankurmali.github.io/files/Curriculum_Vitae.pdf)] [[Google Scholar](https://scholar.google.co.in/citations?user=ogxlzgcAAAAJ&hl=en)].
-* My research interests lie in designing neural memory models for neural state machines and also designing models on Lifelong machine learning (LML), also referred to as never-ending learning, lifelong learning, and continual learning.
-  * I also enjoy working on Biologically-inspired learning algorithm ,statistical learning procedures such as multi-modal learning and Reinforcement learning.
-  * Artificial neural networks:
-    * Convolution neural network , Recurrent networks, neural memory models, Graph Neural Network.
-    * Probabilistic models and variational autoencoders.
+* I am a second year [Informatics](https://ist.psu.edu/) Ph.D. student at [Pennsylvania state university](https://www.psu.edu/), advised by Dr. [lee Giles](https://clgiles.ist.psu.edu/) and Dr. [Alexander G. Ororbia II](https://www.cs.rit.edu/~ago/). [[Curriculum Vitae](http://ankurmali.github.io/files/Curriculum_Vitae.pdf)] [[Google Scholar](https://scholar.google.co.in/citations?user=ogxlzgcAAAAJ&hl=en)].
+* My research interests includes: designing neural memory models/neural state machines, designing models on Lifelong machine learning (LML), also referred to as never-ending learning, lifelong learning, and continual learning.
+  * I develop learning algorithms that are biologically-inspired, with a strong interest in multi-modal learning and reinforcement learning
+  * I engineer applications that integrate convolutional networks, recurrent networks and probabilistic models (variational autoencoders)
         
 # Recent News
 
