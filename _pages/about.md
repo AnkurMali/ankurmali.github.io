@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-* I am a third year [Informatics](https://ist.psu.edu/) Ph.D. student at [Pennsylvania state university](https://www.psu.edu/), advised by Dr. [Lee Giles](https://clgiles.ist.psu.edu/) and mentored by Dr. [Alexander G. Ororbia II](https://www.cs.rit.edu/~ago/) and Dr. Daniel Kifer (http://www.cse.psu.edu/~duk17/). I am a lab member of both the Intelligent Information Systems ([IIS](http://iis.ist.psu.edu/)) and the Neural Adaptive Computing ([NAC](https://www.cs.rit.edu/~ago/nac_lab.html)) laboratories. [[Curriculum Vitae](http://ankurmali.github.io/files/Curriculum_Vitae.pdf)] [[Google Scholar](https://scholar.google.co.in/citations?user=ogxlzgcAAAAJ&hl=en)].
+* I am a third year [Informatics](https://ist.psu.edu/) Ph.D. student at [Pennsylvania state university](https://www.psu.edu/), advised by Dr. [Lee Giles](https://clgiles.ist.psu.edu/) and mentored by Dr. [Alexander G. Ororbia II](https://www.cs.rit.edu/~ago/) and Dr. [Daniel Kifer] (http://www.cse.psu.edu/~duk17/). I am a lab member of both the Intelligent Information Systems ([IIS](http://iis.ist.psu.edu/)) and the Neural Adaptive Computing ([NAC](https://www.cs.rit.edu/~ago/nac_lab.html)) laboratories. [[Curriculum Vitae](http://ankurmali.github.io/files/Curriculum_Vitae.pdf)] [[Google Scholar](https://scholar.google.co.in/citations?user=ogxlzgcAAAAJ&hl=en)].
 * My research interests includes: designing neural memory models/neural state machines, Tensor models, designing models for lifelong machine learning (LML), also referred to as never-ending learning, lifelong learning, and continual learning.
   * I develop learning algorithms that are biologically-inspired, with a strong interest in multi-modal learning and reinforcement learning
   * I design approaches that integrates convolutional networks, recurrent networks, graph and tree networks and also probabilistic models (variational autoencoders)
         
 # Recent News
+* Jan 14, 2020: I will be again working with Nvidia as Research Intern for Summer-21
 * Dec 31, 2020: The Neural State PushDown Automaton accepted as full article in IEEE Transactions on Artificial Intelligence (TAI 2021).
 * Dec 27,2020: An Empirical Analysis of Recurrent Learning Algorithms In Neural Lossy Image Compression Systems accepted as poster for publication at the 2019 Data Compression Conference proceedings (DCC 2021).
 * Dec 1, 2020: Recognizing and Verifying Mathematical Equations using Multiplicative Differential Neural Unit, accepted for publication at the thirty-fifth AAAI Conference on Artificial Intelligence (AAAI-21) .
-* May 11, 2020: Started working for Nvidia as Research Intern on Continual Learning. 
+* May 11, 2020: Started working for Nvidia as Research Intern on Continual Learning (Summer-20). 
 * April 17, 2020: Successfully defended comprehensive exam (Now ABD).
 * June 25, 2019: Continual Learning of Recurrent Neural Networks by Locally Aligning Distributed Representations accepted as full article in IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2019).
 * Dec 27,2019: Sibling Neural Estimators: Improving Iterative Image Decoding with Gradient Communication accepted as full paper for publication at the 2019 Data Compression Conference proceedings (DCC 2020).
