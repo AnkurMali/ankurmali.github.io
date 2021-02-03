@@ -14,7 +14,7 @@ redirect_from:
   * I design approaches that integrates convolutional networks, recurrent networks, graph and tree networks and also probabilistic models (variational autoencoders)
         
 # Recent News
-* Jan 16, 2020: I am/will reviewer (be reviewing) for following top conferences AAAI-21, ICLR-21, CVPR-21, ICCV-21, ICML-21, ACL-21.
+* Jan 16, 2020: I am reviewer for following top conferences AAAI, ICLR, CVPR, ICCV/ECCV, ICML, ACL.
 * Jan 14, 2020: Will be joining Nvidia Research as Research Intern for Summer-21
 * Dec 31, 2020: The Neural State PushDown Automaton accepted as full article in IEEE Transactions on Artificial Intelligence (TAI 2021).
 * Dec 27,2020: An Empirical Analysis of Recurrent Learning Algorithms In Neural Lossy Image Compression Systems accepted as poster for publication at the 2019 Data Compression Conference proceedings (DCC 2021).
