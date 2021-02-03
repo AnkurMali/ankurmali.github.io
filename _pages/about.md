@@ -14,11 +14,12 @@ redirect_from:
   * I design approaches that integrates convolutional networks, recurrent networks, graph and tree networks and also probabilistic models (variational autoencoders)
         
 # Recent News
-* Jan 14, 2020: I will be again working with Nvidia Research as Research Intern for Summer-21
+* Jan 16, 2020: I am/will reviewer (be reviewing) for following top conferences AAAI-21, ICLR-21, CVPR-21, ICCV-21, ICML-21, ACL-21.
+* Jan 14, 2020: Will be joining Nvidia Research as Research Intern for Summer-21
 * Dec 31, 2020: The Neural State PushDown Automaton accepted as full article in IEEE Transactions on Artificial Intelligence (TAI 2021).
 * Dec 27,2020: An Empirical Analysis of Recurrent Learning Algorithms In Neural Lossy Image Compression Systems accepted as poster for publication at the 2019 Data Compression Conference proceedings (DCC 2021).
 * Dec 1, 2020: Recognizing and Verifying Mathematical Equations using Multiplicative Differential Neural Unit, accepted for publication at the thirty-fifth AAAI Conference on Artificial Intelligence (AAAI-21) .
-* May 11, 2020: Started working for Nvidia Research as Research Intern on Continual Learning (Summer-20). 
+* May 11, 2020: Started my internship at Nvidia Research, Learning and Perception Research team on Continual Learning (Summer-20). 
 * April 17, 2020: Successfully defended comprehensive exam (Now ABD).
 * June 25, 2019: Continual Learning of Recurrent Neural Networks by Locally Aligning Distributed Representations accepted as full article in IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2019).
 * Dec 27,2019: Sibling Neural Estimators: Improving Iterative Image Decoding with Gradient Communication accepted as full paper for publication at the 2019 Data Compression Conference proceedings (DCC 2020).
