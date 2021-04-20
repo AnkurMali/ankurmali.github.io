@@ -9,6 +9,7 @@ author_profile: true
 <b> [Gradient-Free Reinforcement Learning with Active Neural Generative Coding](https://www.cs.rit.edu/~ago/angc_ororbia_preprint.pdf)</b> <br> 
 Alexander G. Ororbia*, <b> Ankur Mali* </b>.
 <i> Preprint 2021. </i>
+
 <b>[Conducting Credit Assignment by Aligning Local Representations](https://arxiv.org/abs/1803.01834)</b> <br> 
 Alexander G. Ororbia, <b> Ankur Mali </b>, Daniel Kifer, C. Lee Giles.
 <i>ArXiv 2018. </i>
