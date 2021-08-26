@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-* I am a third year [Informatics](https://ist.psu.edu/) Ph.D. student at [Pennsylvania state university](https://www.psu.edu/), advised by Dr. [Lee Giles](https://clgiles.ist.psu.edu/) and mentored by Dr. [Alexander G. Ororbia II](https://www.cs.rit.edu/~ago/) and Dr. [Daniel Kifer](http://www.cse.psu.edu/~duk17/). I am a lab member of both the Intelligent Information Systems ([IIS](http://iis.ist.psu.edu/)) and the Neural Adaptive Computing ([NAC](https://www.cs.rit.edu/~ago/nac_lab.html)) laboratories. [[Curriculum Vitae](http://ankurmali.github.io/files/Curriculum_Vitae.pdf)] [[Google Scholar](https://scholar.google.co.in/citations?user=ogxlzgcAAAAJ&hl=en)].
-* My research interests includes: designing neural memory models/neural state machines, Tensor models, designing models for lifelong machine learning (LML), also referred to as never-ending learning, lifelong learning, and continual learning.
+* I am a final year [Informatics](https://ist.psu.edu/) Ph.D. student at [Pennsylvania state university](https://www.psu.edu/), advised by Dr. [Lee Giles](https://clgiles.ist.psu.edu/) and mentored by Dr. [Alexander G. Ororbia II](https://www.cs.rit.edu/~ago/) and Dr. [Daniel Kifer](http://www.cse.psu.edu/~duk17/). I am a lab member of both the Intelligent Information Systems ([IIS](http://iis.ist.psu.edu/)) and the Neural Adaptive Computing ([NAC](https://www.cs.rit.edu/~ago/nac_lab.html)) laboratories. [[Curriculum Vitae](http://ankurmali.github.io/files/Curriculum_Vitae.pdf)] [[Google Scholar](https://scholar.google.co.in/citations?user=ogxlzgcAAAAJ&hl=en)].
+* My research interests includes: formal language theory, designing neural memory models/neural state machines, Tensor models, designing models for lifelong machine learning (LML), also referred to as never-ending learning, lifelong learning, and continual learning.
   * I develop learning algorithms that are biologically-inspired, with a strong interest in multi-modal learning and reinforcement learning
   * I design approaches that integrates convolutional networks, recurrent networks, graph and tree networks and also probabilistic models (variational autoencoders)
         
 # Recent News
-* Jan 16, 2020: I am reviewer for following top conferences AAAI, ICLR, CVPR, ICCV/ECCV, ICML, ACL.
+* Jan 16, 2020: I am reviewer for following top conferences AAAI, ICLR, CVPR, ICCV/ECCV, ICML, ACL, EMNLP, Frontier.
 * Jan 14, 2020: Will be joining Nvidia Research as Research Intern for Summer-21
 * Dec 31, 2020: The Neural State PushDown Automaton accepted as full article in IEEE Transactions on Artificial Intelligence (TAI 2021).
 * Dec 27,2020: An Empirical Analysis of Recurrent Learning Algorithms In Neural Lossy Image Compression Systems accepted as poster for publication at the 2019 Data Compression Conference proceedings (DCC 2021).
