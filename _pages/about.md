@@ -12,12 +12,18 @@ redirect_from:
 * My research interests includes: formal language theory, designing neural memory models/neural state machines, Tensor models, designing models for lifelong machine learning (LML), also referred to as never-ending learning, lifelong learning, and continual learning.
   * I develop learning algorithms that are biologically-inspired, with a strong interest in multi-modal learning and reinforcement learning
   * I design approaches that integrates convolutional networks, recurrent networks, graph and tree networks and also probabilistic models (variational autoencoders)
+
+
+# I am on the job market (academic/Research). If you have any openings related to Interpretable ML/Lifelong learning ML, I'd love to get in contact!
         
 # Recent News
-* Jan 16, 2020: I am reviewer for following top conferences AAAI, ICLR, CVPR, ICCV/ECCV, ICML, ACL, EMNLP, Frontier.
-* Jan 14, 2020: Will be joining Nvidia Research as Research Intern for Summer-21
+* July 7th, 2021:Investigating backpropagation alternatives when learning to dynamically count with recurrent neural networks accepted as oral publication in  15th International Conference on Grammatical Inference (ICGI-2021) published at Proceedings of Machine Learning Research (PMLR).
+* July 7th, 2021: Recognizing long grammatical sequences using recurrent networks augmented with an external differentiable stack accepted as oral publication in  15th International Conference on Grammatical Inference (ICGI-2021) published at Proceedings of Machine Learning Research (PMLR).
+* May 20th, 2021:Omnilayout: Room layout reconstruction from indoor spherical panoramas accepted as poster at CVPR workshop 2021.
+* Jan 16, 2021: I am reviewer for following top conferences and journal AAAI, ICLR, CVPR, ICCV/ECCV, ICML, ACL, EMNLP, Frontier, IEEE TNNLS, Neco.
+* Jan 14, 2021: Will be joining Nvidia Research as Research Intern for Summer-21
 * Dec 31, 2020: The Neural State PushDown Automaton accepted as full article in IEEE Transactions on Artificial Intelligence (TAI 2021).
-* Dec 27,2020: An Empirical Analysis of Recurrent Learning Algorithms In Neural Lossy Image Compression Systems accepted as poster for publication at the 2019 Data Compression Conference proceedings (DCC 2021).
+* Dec 27,2020: An Empirical Analysis of Recurrent Learning Algorithms In Neural Lossy Image Compression Systems accepted as poster for publication at the 2021 Data Compression Conference proceedings (DCC 2021).
 * Dec 1, 2020: Recognizing and Verifying Mathematical Equations using Multiplicative Differential Neural Unit, accepted for publication at the thirty-fifth AAAI Conference on Artificial Intelligence (AAAI-21) .
 * May 11, 2020: Started my internship at Nvidia Research, Learning and Perception Research team on Continual Learning (Summer-20). 
 * April 17, 2020: Successfully defended comprehensive exam (Now ABD).
