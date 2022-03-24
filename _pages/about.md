@@ -9,14 +9,21 @@ redirect_from:
 ---
 
 * I am a final year [Informatics](https://ist.psu.edu/) Ph.D. student at [Pennsylvania state university](https://www.psu.edu/), advised by Dr. [Lee Giles](https://clgiles.ist.psu.edu/) and mentored by Dr. [Alexander G. Ororbia II](https://www.cs.rit.edu/~ago/) and Dr. [Daniel Kifer](http://www.cse.psu.edu/~duk17/). I am a lab member of both the Intelligent Information Systems ([IIS](http://iis.ist.psu.edu/)) and the Neural Adaptive Computing ([NAC](https://www.cs.rit.edu/~ago/nac_lab.html)) laboratories. [[Curriculum Vitae](http://ankurmali.github.io/files/Curriculum_Vitae.pdf)] [[Google Scholar](https://scholar.google.co.in/citations?user=ogxlzgcAAAAJ&hl=en)].
-* My research interests includes: formal language theory, designing neural memory models/neural state machines, Tensor models, designing models for lifelong machine learning (LML), also referred to as never-ending learning, lifelong learning, and continual learning.
+* My work is at the intersection of language, memory, and computation—spanning Natural Language Processing (NLP), linguistics, and formal language theory. In particular, I have proposed several knowledge-guided interpretable deep learning systems focusing on generating trustworthy information. Furthermore, I have also designed approaches to investigate the mysterious success of deep learning in recognizing natural language from a theoretical and empirical perspective.
+  * I have design theoretical model as well as empricial model in Tensor recurrent models that are equivalent to pushdown automata and are also turing complete with finite precision and weights.
+* I also work on neural compression (image/video) and model compression (introducing sparsity/compression while training) systems.
+  * I have designed hybrid approaches that take components from classicial compression techniques (JPEG/JPEG 200) and combine them with neural networks to produce computationally efficient models that are comparable to DNNs based compression systems.
+* I also work on designing learning algorithms and computational architectures guided by theories of the brain and its functionality that emphasize solving challenges such as continual/lifelong learning, learning with minimal supervision, RL and sparsity (both in computer vision and natural language processing).
+  * I develop local learning algorithms (derivate free, LRA, LRA-E, DTP-Sigma) that are biologically inspired and forward propagation (variant of RTRL and UORO), that serve as alternative to BP and BPTT to train deep neural systems and RL agents.
+<!-- * My research interests includes: formal language theory, designing neural memory models/neural state machines, Tensor recurrent models, Neural compression (image/video), sparsity and model compression, designing models for lifelong machine learning (LML), also referred to as never-ending learning, lifelong learning, and continual learning.
   * I develop learning algorithms that are biologically-inspired, with a strong interest in multi-modal learning and reinforcement learning
-  * I design approaches that integrates convolutional networks, recurrent networks, graph and tree networks and also probabilistic models (variational autoencoders)
+  * I design approaches that integrates convolutional networks, recurrent networks, graph and tree networks and also probabilistic models (variational autoencoders) -->
 
 
 # I am on the job market (academic/Research). If you have any openings related to Interpretable ML/Lifelong learning ML, I'd love to get in contact!
         
 # Recent News
+* Dec 2021: One paper accepted in AAAI-22 (oral) and another paper is accepted in DCC-22.
 * July 7th, 2021:Investigating backpropagation alternatives when learning to dynamically count with recurrent neural networks accepted as oral publication in  15th International Conference on Grammatical Inference (ICGI-2021) published at Proceedings of Machine Learning Research (PMLR).
 * July 7th, 2021: Recognizing long grammatical sequences using recurrent networks augmented with an external differentiable stack accepted as oral publication in  15th International Conference on Grammatical Inference (ICGI-2021) published at Proceedings of Machine Learning Research (PMLR).
 * May 20th, 2021:Omnilayout: Room layout reconstruction from indoor spherical panoramas accepted as poster at CVPR workshop 2021.
