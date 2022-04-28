@@ -17,7 +17,8 @@ redirect_from:
 * I also work on designing learning algorithms and computational architectures guided by theories of the brain and its functionality that emphasize solving challenges such as continual/lifelong learning, learning with minimal supervision, RL, and sparsity (both in computer vision and natural language processing).
   * I develop local learning algorithms (derivative-free, LRA, LRA-E, DTP-Sigma) that are biologically inspired and forward propagation (a variant of RTRL and UORO), that serve as an alternative to BP and BPTT to train deep neural systems and RL agents.
 
-# I am on the job market (academic/Research). If you have any openings related to Interpretable ML/Lifelong learning ML, I'd love to get in contact!
+# I am looking for multiple PhDs / masters/undergrads to work in Theory and applications of Trustworthy AI; memory augmented neural networks, learning algorithms, and lifelong learning across various domains such as CV, NLP, Medicine, and drug discovery. I will be joining the University of South Florida (USF) as an Assistant Professor in Fall 2022. You will receive hands-on training and the opportunity to work with collaborators within USF and across various research labs from Penn State, RIT, MILA, and NYU. If you are interested in joining my group, please send me your CV.
+
         
 # Recent News
 * Dec 2021: One paper accepted in AAAI-22 (oral) (Backprop free RL) and another paper is accepted in DCC-22 (Neural JPEG).
