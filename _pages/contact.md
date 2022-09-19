@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-College of IST, Pennsylvania State University<br>
-E345 Westgate Building,University Park, PA 16802<br>
-Email: aam35 [at] psu.edu
+Department of CSE, University of South Florida<br>
+ENB247, 3820 USF Alumni Drive, Tampa, FL 33620<br>
+Email: ankurarjunmali [at] usf.edu
 
