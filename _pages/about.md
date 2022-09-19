@@ -19,11 +19,11 @@ p{color:Black !important;}
 
 # Research Interest
 
-  * **Formal method meet AI**: My work is at the intersection of language, memory, and computation—spanning Natural Language Processing (NLP), linguistics, and formal language theory. In particular, I design knowledge-guided interpretable deep learning systems focused on generating trustworthy information. Furthermore, I am also interested in investigating the mysterious success of deep learning in recognizing natural language from a theoretical and empirical perspective.
+  * **Formal method meet AI/Neuro-Symbloic AI**: My work is at the intersection of language, memory, and computation—spanning Natural Language Processing (NLP), linguistics, and formal language theory. In particular, I design knowledge-guided interpretable deep learning systems focused on generating trustworthy information. Furthermore, I am also interested in investigating the mysterious success of deep learning in recognizing natural language from a theoretical and empirical perspective.
 
-  * **Predictive coding-inspired Neural Architectures**: Our lab, in collaboration with [NAC](https://www.cs.rit.edu/~ago/nac_lab.html), works on designing learning algorithms and computational architectures guided by theories of the brain and its functionality that emphasize solving challenges such as continual/lifelong learning, learning with minimal supervision, RL, and sparsity (both in computer vision and natural language processing).
+  * **Predictive coding-inspired Neural Architectures**: Our lab, in collaboration with [NAC](https://www.cs.rit.edu/~ago/nac_lab.html), works on designing learning algorithms and computational architectures guided by theories of the brain and its functionality that emphasize solving challenges such as continual/lifelong learning, learning with minimal supervision, Reinforcement Learning, and sparsity (both in computer vision and natural language processing).
 
-  * **Low Resource and Robust NLP**: In collaboration with our collaborator at the [University of Mississippi](https://lethaiq.github.io/tql3/), our lab is working on low-resource NLP to generate safe and robust AI models for the under-represented group.
+  * **Low Resource and Robust NLP**: In collaboration with our collaborator from [University of Mississippi](https://lethaiq.github.io/tql3/), we are working on designing low-resource Natural language processing (NLP) agents that are robust and capable of generating safe/ethical information. Such models are aimed to help under-represented groups.
 
 
 ## Notes to Prospective Students:
