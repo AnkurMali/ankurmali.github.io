@@ -8,4 +8,5 @@ date: 2021-08-08
 location: "University Park, PA, USA"
 ---
 
-Responsible for designing assignments, teaching basics of tensorflow, mentoring 50+ students
+Responsible for designing assignments, teaching basics of tensorflow, mentoring 50+ students. 
+I have been teaching this course since Fall 2018, where we introduce new concepts and assignments observing the online trends in DL community
