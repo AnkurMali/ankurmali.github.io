@@ -8,23 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-* I am a final year [Informatics](https://ist.psu.edu/) Ph.D. student at [Pennsylvania state university](https://www.psu.edu/), advised by Dr. [Lee Giles](https://clgiles.ist.psu.edu/). I closely work and collaborate with Dr. [Alexander G. Ororbia II](https://www.cs.rit.edu/~ago/) and Dr. [Daniel Kifer](http://www.cse.psu.edu/~duk17/). I am a lab member of both the Intelligent Information Systems ([IIS](http://iis.ist.psu.edu/)) and the Neural Adaptive Computing ([NAC](https://www.cs.rit.edu/~ago/nac_lab.html)) laboratories. [[Curriculum Vitae](http://ankurmali.github.io/files/Curriculum_Vitae.pdf)] [[Google Scholar](https://scholar.google.co.in/citations?user=ogxlzgcAAAAJ&hl=en)].
-* My work is at the intersection of language, memory, and computation—spanning Natural Language Processing (NLP), linguistics, and formal language theory. In particular, I have proposed several knowledge-guided interpretable deep learning systems focusing on generating trustworthy information. Furthermore, I have also designed approaches to investigate the mysterious success of deep learning in recognizing natural language from a theoretical and empirical perspective.
-  * I have designed a theoretical model as well as an empirical model in Tensor recurrent models that are equivalent to pushdown automata and are also Turing complete with finite precision and weights.
-  * I have also worked on extracting state abstraction/representation from these networks for model verification.
-* I also work on neural compression (image/video) and model compression (introducing sparsity/compression while training) systems.
-  * I have designed hybrid approaches that take components from classical compression techniques (JPEG/JPEG 200) and combine them with neural networks to produce computationally efficient models that are comparable to DNNs based compression systems.
-* I also work on designing learning algorithms and computational architectures guided by theories of the brain and its functionality that emphasize solving challenges such as continual/lifelong learning, learning with minimal supervision, RL, and sparsity (both in computer vision and natural language processing).
-  * I develop local learning algorithms (derivative-free, LRA, LRA-E, DTP-Sigma) that are biologically inspired and forward propagation (a variant of RTRL and UORO), that serve as an alternative to BP and BPTT to train deep neural systems and RL agents.
-```diff
-- I will be joining the University of South Florida (USF) as an Assistant Professor in Fall 2022. 
-+ I am looking for multiple PhDs / masters/undergrads to work in Theory and applications of Trustworthy AI; memory augmented neural networks, learning algorithms, and lifelong learning across various domains such as CV, NLP, Medicine, and drug discovery. 
-+ You will receive hands-on training and the opportunity to work with collaborators within USF and across various research labs from Penn State, RIT, MILA, and NYU. 
-+ If you are interested in joining my group, please send me your CV.
-```
+* Ankur Mali is an assistant professor in the department of computer science and engineering at the University of South Florida. He was awarded Ph.D. in Informatics at Pennsylvania State University in 2022, under [Dr. Lee Giles](https://clgiles.ist.psu.edu/). Before this, he worked in industry and obtained a bachelor's in Computer Engineering from the University of Pune, India in 2013.
+
+At USF, he is the founder and scientific director of the Trustworthy knowledge-driven AI (TKAI) lab (website coming soon).
+
+# Research Interest
+
+* Formal methods meet AI: My work is at the intersection of language, memory, and computation—spanning Natural Language Processing (NLP), linguistics, and formal language theory. In particular, I design knowledge-guided interpretable deep learning systems focused on generating trustworthy information. Furthermore, I am also interested in investigating the mysterious success of deep learning in recognizing natural language from a theoretical and empirical perspective.
+
+* Predictive coding-inspired Neural architectures: Our lab, in collaboration with [NAC](https://www.cs.rit.edu/~ago/nac_lab.html), works on designing learning algorithms and computational architectures guided by theories of the brain and its functionality that emphasize solving challenges such as continual/lifelong learning, learning with minimal supervision, RL, and sparsity (both in computer vision and natural language processing).
+
+* Low Resource and Robust NLP: In collaboration with our collaborator at the [University of Mississippi](https://lethaiq.github.io/tql3/), our lab is working on low-resource NLP to generate safe and robust AI models for the under-represented group.
+
+
+* ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) 'Notes to Prospective Students:'
+* ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) 'Job Opening:' I am looking for a new Ph.D. student to begin in Spring/Fall 2023. All emails should have the title: Ph.D. Spring/Fall 2023. In brief words, Please provide details about why you wish to join our lab and what topics you wish to work on/explore.
+* Students at USF interested in doing an Independent Study or Master's thesis (seeking me as advisor) should also provide all the details highlighted above.
+
+
+
         
 # Recent News
-* Dec 2021: One paper accepted in AAAI-22 (oral) (Backprop free RL) and another paper is accepted in DCC-22 (Neural JPEG).
+* Sept 2022: One paper accepted in NeurIPS-22
+* Aug 2022: Joined University of South Florida as Assistant Professor (Tenure-Track)
+* Jan 2022: One paper accepted in AAAI-22 (oral) (Backprop free RL).
+* Jan 2022: One paper accepted in DCC-22 (Neural JPEG)
 * July 7th, 2021:Investigating backpropagation alternatives when learning to dynamically count with recurrent neural networks accepted as oral publication in  15th International Conference on Grammatical Inference (ICGI-2021) published at Proceedings of Machine Learning Research (PMLR).
 * July 7th, 2021: Recognizing long grammatical sequences using recurrent networks augmented with an external differentiable stack accepted as oral publication in  15th International Conference on Grammatical Inference (ICGI-2021) published at Proceedings of Machine Learning Research (PMLR).
 * May 20th, 2021:Omnilayout: Room layout reconstruction from indoor spherical panoramas accepted as a poster at CVPR workshop 2021.
