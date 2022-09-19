@@ -34,7 +34,7 @@ At USF, he is the founder and scientific director of the Trustworthy knowledge-d
 
         
 # Recent News
-  * Sept 2022: I will be giving a talk on Provable stability of Neural State Turing Machine at AI+X Seminar at USF
+  * Sept 2022: I will be giving a talk on Provable stability of Neural State Turing Machine at RIT
   * Sept 2022: I will be giving a talk on Provable stability of Neural State Turing Machine at AI+X Seminar at USF
   * Sept 2022: One paper accepted in NeurIPS-22
   * Aug 2022: Joined University of South Florida as Assistant Professor (Tenure-Track)
