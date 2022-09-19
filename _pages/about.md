@@ -15,7 +15,7 @@ p{color:Black !important;}
 
 * Ankur Mali is an **Assistant Professor** in the department of computer science and engineering at the [University of South Florida](https://www.usf.edu/). He was awarded Ph.D. in Informatics at Pennsylvania State University in 2022, under [Dr. Lee Giles](https://clgiles.ist.psu.edu/). Before this, he worked in industry and obtained a bachelor's in Computer Engineering from the University of Pune, India in 2013.
 
-At USF, he is the founder and scientific director of the Trustworthy knowledge-driven AI (**TKAI**) lab (website coming soon).
+* At USF, he is the founder and scientific director of the Trustworthy knowledge-driven AI (**TKAI**) lab (website coming soon).
 
 # Research Interest
 
