@@ -13,7 +13,7 @@ H2{color:DarkOrange !important;}
 p{color:Black !important;}
 </style>
 
-* Ankur Mali is an **Assistant Professor** in the department of computer science and engineering at the [University of South Florida](https://www.usf.edu/). He was awarded Ph.D. in Informatics at Pennsylvania State University in 2022, under [Dr. Lee Giles](https://clgiles.ist.psu.edu/). Before this, he worked in industry and obtained a bachelor's in Computer Engineering from the University of Pune, India in 2013.
+* Ankur Mali is an **Assistant Professor** in the department of computer science and engineering at the [University of South Florida](https://www.usf.edu/). He was awarded Ph.D. in Informatics at Pennsylvania State University in 2022, under [Dr. Lee Giles](https://clgiles.ist.psu.edu/). Before this, he worked in industry and obtained a bachelor's in Computer Engineering from the University of Pune, India in 2013. He was also awarded  prestigious [**IVADO postdoctoral Fellowship**](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) to work with [**University of Montreal**](https://www.umontreal.ca/en/).
 
 * At USF, he is the founder and scientific director of the Trustworthy knowledge-driven AI (**TKAI**) lab (website coming soon).
 
@@ -38,7 +38,8 @@ p{color:Black !important;}
   * Sept 2022: I will be giving a talk on Provable stability of Neural State Turing Machine at AI+X Seminar at USF
   * Sept 2022: One paper accepted in **NeurIPS-22**
   * Aug 2022: Joined University of South Florida as Assistant Professor (**Tenure-Track**)
-  * Mar 2022: Received prestigious [**IVADO postdoctoral Fellowship** ](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding)
+  * Mar 2022: Received prestigious [**IVADO postdoctoral Fellowship** ](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) (Declined)
+  * Jan 2022: Received Postdocral fellowship to work with [**Harvard Medical**](https://hms.harvard.edu/) and [**Dana-farber cancer center**] (https://www.dana-farber.org/) (Declined)
   * June 2022: Defended my thesis on **Turing Completeness of Neural Networks with bounded precision and time**
   * Jan 2022: One paper accepted in **AAAI-22 (oral)** (Backprop free RL).
   * Jan 2022: One paper accepted in **DCC-22** (Neural JPEG)
