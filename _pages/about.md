@@ -32,7 +32,7 @@ I believe Neuro-symbolic AI and understanding of complex systems is a crutical s
 
 
 ## Notes to Prospective Students:
-  * **Job Opening**: I am looking for a new Ph.D. student to begin in Spring/Fall 2023. All emails should have the title: Ph.D. Spring/Fall 2023. In brief words, Please provide details about why you wish to join our lab and what topics you wish to work on/explore.
+  * **Job Opening**: I am looking for a new Ph.D. student to begin in Spring/Fall 2023. All emails should have the title: Ph.D. Spring/Fall 2023. In brief words, Please provide details about why you wish to join our lab and what topics you wish to work on/explore. Please refer to [instructions](https://tkai-lab.github.io/Student_Instructions/) prior contacting me.
   * Students at USF interested in doing an Independent Study or Master's thesis (seeking me as advisor) should also provide all the details highlighted above.
 
 
