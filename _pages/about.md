@@ -19,8 +19,8 @@ p{color:Black !important;}
 
 # Research Interests
 * I have broad interests in natural language processing, neuro-symbloic AI and predictive coding. My research is mostly driven by two goals:
-  ** Designing efficient and fundamental approaches to derive knowledge from data and encode human level reasnoning in to intelligents systems.
-  ** Extending such model capabilities to generate interpretable, robust and fair representation.
+  * Designing efficient and fundamental approaches to derive knowledge from data and encode human level reasnoning in to intelligents systems.
+  * Extending such model capabilities to generate interpretable, robust and fair representation.
 I believe Neuro-symbolic AI and understanding of complex systems is a crutical steps towards desigining stable Artificial General Intelligence systems.
 # Research Projects
 
