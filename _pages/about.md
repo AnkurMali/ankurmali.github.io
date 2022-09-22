@@ -17,7 +17,12 @@ p{color:Black !important;}
 
 * At USF, he is the founder and scientific director of the Trustworthy knowledge-driven AI [**TKAI**](https://tkai-lab.github.io/) lab.
 
-# Research Interest
+# Research Interests
+* I have broad interests in natural language processing, neuro-symbloic AI and predictive coding. My research is mostly driven by two goals:
+  ** Designing efficient and fundamental approaches to derive knowledge from data and encode human level reasnoning in to intelligents systems.
+  ** Extending such model capabilities to generate interpretable, robust and fair representation.
+I believe Neuro-symbolic AI and understanding of complex systems is a crutical steps towards desigining stable Artificial General Intelligence systems.
+# Research Projects
 
   * **Formal method meet AI/Neuro-Symbloic AI**: My work is at the intersection of language, memory, and computation—spanning Natural Language Processing (NLP), linguistics, and formal language theory. In particular, I design knowledge-guided interpretable deep learning systems focused on generating trustworthy information. Furthermore, I am also interested in investigating the mysterious success of deep learning in recognizing natural language from a theoretical and empirical perspective.
 
