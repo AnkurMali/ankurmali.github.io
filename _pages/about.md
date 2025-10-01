@@ -13,9 +13,9 @@ H2{color:DarkOrange !important;}
 p{color:Black !important;}
 </style>
 
-* Ankur Mali is an **Assistant Professor** in the department of computer science and engineering at the [University of South Florida](https://www.usf.edu/). He was awarded Ph.D. in Informatics at Pennsylvania State University in 2022, under [Dr. Lee Giles](https://clgiles.ist.psu.edu/). Before this, he worked in industry and obtained a bachelor's in Computer Engineering from the University of Pune, India in 2013. He was also awarded  prestigious [**IVADO postdoctoral Fellowship**](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) to work with [**University of Montreal**](https://www.umontreal.ca/en/).
+* Ankur Mali is an **Assistant Professor** in the Bellini College of Artificial Intelligence, Cybersecurity and Computing at the [University of South Florida](https://www.usf.edu/). He was awarded Ph.D. in Informatics at Pennsylvania State University in 2022, under [Dr. Lee Giles](https://clgiles.ist.psu.edu/). Before this, he worked in industry and obtained a bachelor's in Computer Engineering from the University of Pune, India in 2013. He was also awarded  prestigious [**IVADO postdoctoral Fellowship**](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) to work with [**University of Montreal**](https://www.umontreal.ca/en/).
 
-* At USF, he is the founder and scientific director of the Trustworthy knowledge-driven AI [**TKAI**](https://tkai-lab-mali.github.io/) lab. Note [**OLD_LAB_PAGE**](https://tkai-lab.github.io/) is inactive and not maintained.
+* At USF, he is the founder and scientific director of the Trustworthy knowledge-driven AI [**TKAI**](https://tkai-lab-mali.github.io/) lab. Note [**OLD_LAB_PAGE**](https://tkai-lab.github.io/) is inactive and no longer maintained.
 
 # Research Interests
 * I have broad interests in natural language processing, neuro-symbloic AI and predictive coding. My research is mostly driven by two goals:
@@ -36,14 +36,14 @@ I believe Neuro-symbolic AI and understanding of complex systems is a crutical s
 
 
 ## Notes to Prospective Students:
-  * **Job Opening**: I am looking for a new Ph.D. student to begin in Spring/Fall 2023. All emails should have the title: Ph.D. Spring/Fall 2023. In brief words, Please provide details about why you wish to join our lab and what topics you wish to work on/explore. Please refer to [instructions](https://tkai-lab.github.io/Student_Instructions/) prior contacting me.
+  * **Job Opening**: I am looking for a new Ph.D. student to begin in Fall 2026. All emails should have the title: Ph.D. Fall 2026. In brief words, Please provide details about why you wish to join our lab and what topics you wish to work on/explore. Please refer to [instructions](https://tkai-lab-mali.github.io/join/) prior to contacting me.
   * Students at USF interested in doing an Independent Study or Master's thesis (seeking me as advisor) should also provide all the details highlighted above.
 
 
 
         
 ## Recent News
-  * For recent News, please follow the lab-webpage.
+  * For recent News(since Oct 2022 - Now), please follow the new lab webpage.
   * Sept 2022: I will be giving a talk on Provable stability of Neural State Turing Machine at **RIT**
   * Sept 2022: I will be giving a talk on Provable stability of Neural State Turing Machine at **AI+X** Seminar at USF
   * Sept 2022: One paper accepted in **NeurIPS-22**
